@@ -17,8 +17,7 @@ Here's a sample calculation:
 
 **Input:**  
 
-2 ^ 3
-
+![Calculator Example](screenshot_input.png)
 
 **Output:**  
 
